@@ -1,1 +1,2 @@
-Bu �rnek bir PDF belgesidir. 
+Bu ornek bir PDF belgesidir. 
+Spell Checker'ın Türkçe versiyonunu indirdim ancak henüz aktifleştirmedim.
